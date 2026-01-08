@@ -71,4 +71,4 @@ I break systems (ethically), build tools, and document everything I learn.
 
 ---
 
-Thanks for visiting — always learning, always improving. 🚀
+Thanks for visiting — always learning, always improving. 
