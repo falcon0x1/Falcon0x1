@@ -64,7 +64,7 @@ I break systems (ethically), build reconnaissance tools, and document real-world
 - 𖤍 **Active Directory Attacks:** Lateral movement, privilege escalation, Kerberos exploitation
 - 𓅓 **FalconRecon** – Bash-based reconnaissance automation framework for attack surface enumeration → [View Project](https://github.com/Falcon0x1/FalconRecon)
 - 𓅉 **FalconServiceAnalyzer** – Android service attack surface analyzer with automated command generation
-- 𓅂 **Daily Security Notes** → [TIL Documentation](https://falcon0x1.github.io/til/)
+- 𓅂 **Daily Security Notes** → [TIL Documentation](https://falcon0x1.github.io/)
 
 ---
 
